@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agri_green_900">#1B5E20</color>
+    <color name="agri_green_700">#2E7D32</color>
+    <color name="agri_green_500">#43A047</color>
+    <color name="agri_green_100">#C8E6C9</color>
+    <color name="cream_50">#FDFBF7</color>
+    <color name="charcoal_900">#1C1C1E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="amber_500">#FFA000</color>
+    <color name="red_600">#D32F2F</color>
+</resources>

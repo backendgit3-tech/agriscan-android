@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgriScan</string>
+    <string name="tagline">اسکین کریں۔ سمجھیں۔ عمل کریں۔ اگائیں۔</string>
+    <string name="your_ai_assistant">آپ کا AI فصل معاون</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_diagnose">تشخیص</string>
+    <string name="nav_history">تاریخ</string>
+    <string name="nav_about">تعارف</string>
+
+    <!-- Home -->
+    <string name="server_status">سرور کی حالت</string>
+    <string name="online">آن لائن</string>
+    <string name="offline">آف لائن</string>
+    <string name="checking">جانچ ہو رہی ہے…</string>
+    <string name="model_loaded">ماڈل لوڈ ہو گیا</string>
+    <string name="qwen_enabled">کیون AI</string>
+    <string name="storage_enabled">اسٹوریج</string>
+    <string name="quick_tips">فوری نکات</string>
+    <string name="tip_1">بہترین نتائج کے لیے قدرتی روشنی استعمال کریں</string>
+    <string name="tip_2">متاثرہ پتے کے حصے پر فوکس کریں</string>
+    <string name="tip_3">تفصیلی تجزیے کے لیے ہائبرڈ AI آزمائیں</string>
+    <string name="scan_leaf">پتا اسکین کریں</string>
+    <string name="login_to_account">اکاؤنٹ میں لاگ ان کریں</string>
+    <string name="total_scans">کل اسکین</string>
+
+    <!-- Diagnose -->
+    <string name="take_photo">تصویر لیں</string>
+    <string name="choose_gallery">گیلری سے منتخب کریں</string>
+    <string name="select_image_source">تصویر کا ماخذ منتخب کریں</string>
+    <string name="ai_mode">AI موڈ</string>
+    <string name="local_ai">مقامی AI</string>
+    <string name="hybrid_ai">ہائبرڈ AI</string>
+    <string name="qwen_ai">کیون AI</string>
+    <string name="local_ai_desc">تیز آف لائن ماڈل</string>
+    <string name="hybrid_ai_desc">مقامی اور کلاؤڈ تجزیے کا امتزاج</string>
+    <string name="qwen_ai_desc">جدید ویژن لینگویج ماڈل</string>
+    <string name="analyze">تجزیہ کریں</string>
+    <string name="analyzing">تجزیہ ہو رہا ہے…</string>
+    <string name="no_image_selected">کوئی تصویر منتخب نہیں</string>
+    <string name="select_image_first">پہلے ایک تصویر منتخب کریں</string>
+    <string name="server_unavailable">سرور دستیاب نہیں۔ کنکشن چیک کریں۔</string>
+
+    <!-- Camera -->
+    <string name="camera_permission_required">کیمرہ کی اجازت درکار ہے</string>
+    <string name="camera_permission_desc">پتوں کی بیماری کی تشخیص کے لیے کیمرہ ضروری ہے۔</string>
+    <string name="grant_permission">اجازت دیں</string>
+    <string name="go_back">واپس جائیں</string>
+    <string name="position_leaf">پتا فریم میں رکھیں</string>
+    <string name="capture">تصویر لیں</string>
+    <string name="back">واپس</string>
+
+    <!-- Result -->
+    <string name="diagnosis_complete">تشخیص مکمل</string>
+    <string name="disease">بیماری</string>
+    <string name="confidence">اعتماد</string>
+    <string name="treatment">تجویز کردہ علاج</string>
+    <string name="ai_source">AI ماخذ</string>
+    <string name="qwen_opinion">کیون تجزیہ</string>
+    <string name="healthy_plant">صحت مند پودا</string>
+    <string name="disease_detected">بیماری کا پتہ چلا</string>
+    <string name="low_confidence">کم اعتماد</string>
+    <string name="try_clearer_photo">براہ کرم صاف تصویر لیں</string>
+    <string name="scan_another">ایک اور پتا اسکین کریں</string>
+    <string name="retry">دوبارہ کوشش</string>
+
+    <!-- History -->
+    <string name="recent_scans">حالیہ اسکین</string>
+    <string name="no_history">ابھی تک کوئی تاریخ نہیں</string>
+    <string name="scan_to_start">شروع کرنے کے لیے پتا اسکین کریں</string>
+    <string name="clear_history">تاریخ صاف کریں</string>
+    <string name="clear_all">سب صاف کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="clear_history_confirm">یہ تمام اسکین کی تاریخ حذف کر دے گا۔ یہ عمل واپس نہیں ہو سکتا۔</string>
+    <string name="export_csv">CSV ایکسپورٹ</string>
+    <string name="date">تاریخ</string>
+    <string name="time">وقت</string>
+    <string name="mode">موڈ</string>
+    <string name="source">ماخذ</string>
+    <string name="delete">حذف کریں</string>
+
+    <!-- About -->
+    <string name="about_agriscan">AgriScan کے بارے میں</string>
+    <string name="version">ورژن</string>
+    <string name="ai_capabilities">AI صلاحیتیں</string>
+    <string name="cap_1">ٹماٹر اور آلو کی فصلوں کی بیماری کی تشخیص</string>
+    <string name="cap_2">مقامی اور کلاؤڈ ماڈلز کا ہائبرڈ AI</string>
+    <string name="cap_3">کیون ویژن کا جدید تجزیہ</string>
+    <string name="cap_4">علاج کی سفارشات</string>
+    <string name="language">زبان</string>
+    <string name="english">English</string>
+    <string name="urdu">اردو</string>
+    <string name="team">ٹیم</string>
+    <string name="team_name">اسکارپینز</string>
+    <string name="built_with">Kotlin، Jetpack Compose اور Material 3 سے تیار</string>
+
+    <!-- Auth -->
+    <string name="login">لاگ ان</string>
+    <string name="register">رجسٹر</string>
+    <string name="phone">فون نمبر</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="full_name">پورا نام</string>
+    <string name="district">ضلع</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="no_account">اکاؤنٹ نہیں ہے؟</string>
+    <string name="have_account">پہلے سے اکاؤنٹ ہے؟</string>
+    <string name="sign_up">سائن اپ</string>
+    <string name="sign_in">سائن ان</string>
+
+    <!-- Errors -->
+    <string name="error_generic">کچھ غلط ہو گیا۔ دوبارہ کوشش کریں۔</string>
+    <string name="error_network">نیٹ ورک کی خرابی۔ اپنا کنکشن چیک کریں۔</string>
+    <string name="error_timeout">درخواست کا وقت ختم ہو گیا۔ دوبارہ کوشش کریں۔</string>
+</resources>

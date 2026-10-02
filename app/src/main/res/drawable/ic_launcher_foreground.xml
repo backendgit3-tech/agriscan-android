@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Leaf icon as launcher foreground -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C42,24 32,34 32,46 C32,62 54,80 54,80 C54,80 76,62 76,46 C76,34 66,24 54,24 Z" />
+    <!-- Leaf vein -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M53,34 L53,70 L55,70 L55,34 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,44 L44,38 L43,40 L54,46 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,52 L64,46 L65,48 L54,54 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,58 L44,52 L43,54 L54,60 Z" />
+</vector>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Splash screen leaf icon -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M100,30 C72,30 50,52 50,80 C50,116 100,160 100,160 C100,160 150,116 150,80 C150,52 128,30 100,30 Z" />
+    <!-- Leaf veins -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M98,55 L98,135 L102,135 L102,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,72 L78,60 L76,64 L100,76 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,88 L122,76 L124,80 L100,92 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,102 L78,90 L76,94 L100,106 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,116 L122,104 L124,108 L100,120 Z" />
+    <!-- App name text placeholder -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,175 L140,175 L140,178 L60,178 Z" />
+</vector>
